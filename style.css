@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffc0 ; 
+} 
+
+h4{
+    border: black solid 3px;
+}
+
+li {
+    color: red;
+}
+/* comentário no CSS*/
+.deuses {
+    background-color: purple;
+    font-size: 30px;
+}
+#cabecalho {
+    background-color: #d62e2e ;
+}
+
+div p{
+    color: green;
+}
